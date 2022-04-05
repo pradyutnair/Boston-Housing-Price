@@ -28,7 +28,7 @@ This will install all necesary libraries in your Python environment in order to 
 
 ## Authors
 
-* **Pradyut Nair** - (https://github.com/pradyutnair)
+[**Pradyut Nair**](https://github.com/pradyutnair)
 
 
 ## Acknowledgments
